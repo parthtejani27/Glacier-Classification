@@ -15,6 +15,8 @@ This research project focuses on applying supervised classification methods to d
 
 The project uses GIS (Geographic Information System) data of glacier land and ice obtained from Kaggle, containing:
 
+!(https://www.kaggle.com/datasets/dshassan/glacier-land-ice-gis-data)
+
 - 23 features with numerical data
 - Approximately 1 million instances
 - Features include Land Surface Temperature (LST) and various band ratios
